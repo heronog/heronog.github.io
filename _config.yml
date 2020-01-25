@@ -1,1 +1,3 @@
 remote_theme: chrisbobbe/jekyll-theme-prologue
+# The following settings are NECESSARY for the Prologue theme to run:
+collections: [sections]
