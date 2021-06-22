@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Take charge of your creativity"
-date:   2021-06-16 04:01:07 +0000
+date:   2021-06-21 04:01:07 +0000
 categories: reflection od50
 excerpt: How and Why to separate fulfillment and creativity from career and work
 ---
