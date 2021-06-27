@@ -34,7 +34,7 @@ Some of it may be the barriers to entry are too high. I will ignore price and av
 
 It could also be that the installation seemed too daunting and risky. Unplugging water lines from such a vital facility as a toilet, with the risk of property damage, constant clean up, or simple janky looking fixes. Having a plumber come in to install your bidet in the middle of the pandemic seemed like too much: -_"What if I get sick? What if the plumber gets sick? Are we even allowed to get this service for non emergency issues like a bidet? How much is it gonna take? If I don't like it I'll have to pay again to get it removed!"_. Too much.
 
-To dig deeper, I asked my friends and some thought that it was "funny", thinking that a stream of water is gonna be shot at your butt and it would "feel funny". Others where concerned with the origins of the water, is it coming from the toilet bowl and dirty? (the answer is NO). Others were afraid it would feel uncomfortable. Is the water cold? how cold? is it gonna spill out? is the spout clean? How does it keep clean?. The ones concerned with comfort and cleanliness were women.
+To dig deeper, I asked my friends and some thought that it was "funny", thinking that a stream of water is gonna be shot at your butt and it would "feel funny". Others where concerned with the origins of the water, is it coming from the toilet bowl and dirty? (the answer is NO). Others were afraid it would feel uncomfortable. Is the water cold? how cold? is it gonna spill out? is the spout clean? How does it keep clean?. The ones concerned with comfort and cleanliness were women. [^1]
 
 The ones worried about the "funny" feeling were all men. We all thought that having a stream of water shot at us for cleaning would feel too sexual in an unknown way. We laughed it off and did not talk about it any more, but I worry that our self image is so fragile, that our identity is so dependent on sexualizing everything that we can't even begin exploring better ways of doing things.
 
@@ -51,3 +51,5 @@ This is a privilege because the things that are working for me become invisible.
 When I turn around and there are millions and millions of people for whom fragance paper would feel like a true luxury, not because of the fragace but because of the health and cleanlines benefits, when I turn around and I see people in the world without access to running water or working sanitary infrastructure, or even access to economic and financial growth to get their own opinion, I think about how fortunate I am.
 
 Being clean, being healty, being wealthy are things that I am privileged with, and whenever I get disgusted with ultra soft fraganced toilet paper, I think about this, and let it go.
+
+[^1]: I am very dissatisfied with the way I blurted that out, [please read this]({% post_url 2021-06-27-international-womens-day %})?.
