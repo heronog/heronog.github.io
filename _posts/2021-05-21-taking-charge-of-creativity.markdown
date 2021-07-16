@@ -2,7 +2,8 @@
 layout: post
 title:  "Take charge of your creativity"
 date:   2021-06-21 04:01:07 +0000
-categories: reflection od50
+categories: reflection
+tags: od50
 excerpt: How and Why to separate fulfillment and creativity from career and work
 ---
 Growing up, since I was a kid and specially when I was a teenager, the question "What do you want to be when you grow up?" would pop from time to time.

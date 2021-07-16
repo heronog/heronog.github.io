@@ -2,7 +2,8 @@
 layout: post
 title:  "Here we go again"
 date:   2021-06-09 04:01:07 +0000
-categories: jekyll update
+categories: technical
+tags: jekyll update
 excerpt: How to publish the simplest Jekyll blog using GitHub pages
 ---
 It's been a long time since I've written anything for myself, and thanks to the support
