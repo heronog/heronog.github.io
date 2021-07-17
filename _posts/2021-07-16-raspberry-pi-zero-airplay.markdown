@@ -17,7 +17,7 @@ I also hate wearing headphones when working out, so I tried to play my podcasts 
 
 By putting the two together I thought I could get a nice project and maybe get extra motivation to work out more often without having to buy more stuff.
 
-I can say that this is a very specific need, where I use an iPhone to interact with my music/podcasts, but I would guess you can do the same and install a some other service for android compatibility like DLNA/UPnP or somethhg along those lines.
+I can say that this is a very specific need, where I use an iPhone to interact with my music/podcasts, but I would guess you can do the same and install a some other service for android compatibility like DLNA/UPnP or something along those lines.
 
 Finally, I think I will be using some of the steps here for more projects, not just audio but IoT/Home automation and linux in general. I hope it's useful to you.
 
