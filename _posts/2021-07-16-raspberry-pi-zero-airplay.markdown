@@ -5,6 +5,9 @@ categories: technical
 tags: raspberry-pi linux airplay music
 excerpt: Simple setup of an Airplay service with a Raspberry Pi Zero W with decent performance and stabililty.
 ---
+
+![Garage AirPlay speaker on iPhone](/assets/pi0w-airplay/garage-airplay-screenshot.jpg)
+
 ## Some background and motivation
 
 Whenever I work out I like listening to podcasts. It keeps my mind busy while I wait for my next set and it helps me feel extra productive whenever I get a workout and learn something new in the same session.
@@ -127,6 +130,7 @@ Once this is done, you should be able to see `Garage` in your Airplay speakers l
 ## Conclusion
 
 That was easier than expected! but it's not really complete, we just got to a functional MVP that can be used while we add some of the nicer features, but that will have to wait for the next post.
+![Garage Splash screen](/assets/pi0w-airplay/garage-splash.png)
 
 
 [balena-sound]: https://sound.balenalabs.io
